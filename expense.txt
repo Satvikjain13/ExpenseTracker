@@ -1,3 +1,3 @@
 Food: 100
 Taxi: 50
-Chart data ready
+Export enabled
